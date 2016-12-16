@@ -1,0 +1,80 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+body {
+    text-align: center;
+    background-image: url("../img/computer.jpg");
+}
+#header {
+    font-family: style-script;
+    font-style: italic;
+    text-shadow: 3px 3px white;
+    `position: fixed;
+}
+#btn1 {
+    color: blue;
+}
+.form-inline {
+    display: none;
+}
+.audio {
+    display: none;
+}
+.audio1 {
+    display: none;
+}
+.audio2 {
+    display: none;
+}
+.audio3 {
+    display: none;
+}
+.audio4 {
+    display: none;
+}
+.audio5 {
+    display: none;
+}
+.audio6 {
+    display: none;
+}
+.audio7 {
+    display: none;
+}
+.audio8 {
+    display: none;
+}
+.audio9 {
+    display: none;
+}
+.audio10 {
+    display: none;
+}
+.audio11 {
+    display: none;
+}
+.audio12 {
+    display: none;
+}
+.audio13 {
+    display: none;
+}
+.audio14 {
+    display: none;
+}
+.audio15 {
+    display: none;
+}
+.audio16 {
+    display: none;
+}
+.audio17 {
+    display: none;
+}
+.audio18 {
+    display: none;
+}
+.audio19 {
+    display: none;
+}
